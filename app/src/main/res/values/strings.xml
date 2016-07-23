@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">prueba_collapse</string>
+    <string name="title_oration_ws">Ready For Learn</string>
+    <string name="paragraph_ws">Discover your skill hidden \n Challenge the mind</string>
+    <string name="bt_getStarted">Get Started</string>
+    <string name="paragraph2_ws">Do not have an account?</string>
+    <string name="flat_bt_signUp">Sign Un</string>
+    <string name="welcome">Welcome</string>
+    <string name="paragraph_Sn">Sign in below to see \n all your amazing stats! </string>
+    <string name="NickName">Enter your nick here</string>
+    <string name="Email">Enter your Email here</string>
+    <string name="passWork">Enter your passWork here</string>
+    <string name="google">sign up with google +</string>
+    <string name="facebook">sign up with facebook</string>
+    <string name="title_log">every thing you need</string>
+</resources>
